@@ -1,4 +1,6 @@
 # Flight Insights: Delays and Cancelations
+## Project Overview
+This project involves the analysis of nearly 2,000,000 commercial flights from major US airports to understand patterns in flight delays and cancellations. Using Power BI, the raw data is transformed into a user-friendly, interactive dashboard that allows stakeholders to explore the data by various dimensions such as airport, airline, and day of the week.
 ## Dataset
 The dataset used in this project contains information on nearly 2,000,000 commercial flights from major US airports. The data includes:
 
