@@ -11,7 +11,7 @@ The dataset used in this project contains information on nearly 2,000,000 commer
 ## Objectives
 The primary goal of this project is to identify trends and factors contributing to flight delays and cancellations. Specifically, this project aims to:
 
-- Analyze delay patterns across different airports and airlines
+- Analyse delay patterns across different airports and airlines
 - Identify the most common reasons for flight delays and cancellations
 - Provide stakeholders with an interactive tool to explore flight data by various dimensions
 
