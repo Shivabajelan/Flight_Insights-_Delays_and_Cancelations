@@ -38,16 +38,8 @@ The Power BI dashboard includes the following key visualisations:
 - **Flight Status by Airline**: Compare on-time performance across airlines.
 - **Time-Series Analysis**: Explore delays and cancellations over time.
 
-## Installation
-To view the Power BI dashboard, you will need to have Power BI Desktop installed. You can download it [here](https://powerbi.microsoft.com/desktop/).
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/flight-insights.git
-2. Open the `.pbix` file in Power BI Desktop.
-
 ## Usage
-Once you have the project opened in Power BI Desktop, you can explore the dashboard by interacting with the various visualizations. Use filters and slicers to drill down into specific details, such as delays by airport or cancellations by airline.
+Once you have the project opened in Power BI Desktop, you can explore the dashboard by interacting with the various visualisations. Use filters and slicers to drill down into specific details, such as delays by airport or cancellations by airline.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request.
@@ -56,4 +48,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 This project is licensed under the MIT License 
 
 ## Acknowledgments
-Special thanks to the open data sources and contributors who made this project possible.
+This project was guided by the excellent tutorials provided by Maven Analytics. Special thanks to their team for creating comprehensive and easy-to-follow resources that helped me develop this analysis.
